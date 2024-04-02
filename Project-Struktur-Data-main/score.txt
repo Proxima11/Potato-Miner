@@ -1,0 +1,16 @@
+ali;300
+
+kids;200
+
+kita;100
+
+kita;100
+
+kita;100
+
+yha;0
+
+kita;0
+
+prx;0
+
